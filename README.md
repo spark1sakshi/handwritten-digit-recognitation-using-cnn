@@ -13,9 +13,9 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 - **Evaluation:** The saved model is evaluated on the test set, with metrics like accuracy, precision, and confusion matrix visualized.
 
 ### Results
-- **Training Accuracy:** Average of **0.9932** across folds.
-- **Validation Accuracy:** Average of **0.9893** across validation sets.
-- **Test Accuracy:** **0.9919** on the test set using the best model.
-- **Test Precision:** **0.9919** (weighted average) on the test set.
+- **Training Accuracy:** Average of **99.32** across folds.
+- **Validation Accuracy:** Average of **98.93** across validation sets.
+- **Test Accuracy:** **99.19** on the test set using the best model.
+- **Test Precision:** **99.19** (weighted average) on the test set.
 - **Confusion Matrix:** Visualized for both validation and test predictions to understand classification performance.
 
